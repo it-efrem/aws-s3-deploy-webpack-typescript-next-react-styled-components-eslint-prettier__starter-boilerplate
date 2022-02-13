@@ -1,34 +1,40 @@
 # Boilerplate static web site project
-```
-GitHub Actions Deploy: AWS, S3
-Language: TypeScript
-Build: Webpack, Next.js
-Front-end framework: React.js
-CSS framework: Styled-Components
-Code Style: EsLint, Prettier
-```
+GitHub Actions Deploy: `AWS, S3`
+
+Language: `TypeScript`
+
+Build: `Webpack, Next.js`
+
+Front-end framework: `React.js`
+
+CSS framework: `Styled-Components`
+
+Code Style: `EsLint, Prettier`
 
 ## Usage
 
-#### 1) Find in code and replace
+#### 1) Create your repo with this template
+![screenshot](./docs/3.png)
+
+#### 2) Find in code and replace
 ```
 [domain]
 [name]
 [analytics_js_code]
 ```
-#### 2) Run in terminal
+#### 3) Run in terminal
 ```
 npm i
 npm run dev
 ```
-#### 3) Open in browser
+#### 4) Open in browser
 ```
 http://localhost:3000/
 ```
-#### 4) See
+#### 5) See
 ![screenshot](./docs/1.png)
-#### 5) Make changes
-#### 6) Enjoy!
+#### 6) Make changes
+#### 7) Enjoy!
 
 ## Deploy
 
